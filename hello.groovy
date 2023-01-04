@@ -1,1 +1,4 @@
-println "<h2>Waffles!!</h2>"
+output = """
+{"hola":"hola"}
+"""
+println output
